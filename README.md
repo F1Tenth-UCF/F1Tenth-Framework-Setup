@@ -11,4 +11,4 @@ The installation procedures depend on your hardware specification and preference
 - Docker Container Installation which should work on any system that supports Docker Engine, including Ubuntu 24.04, Windows, and MacOS
 
 > [!TIP]
-> We recommend using Ubuntu 20.04 with ROS 2 Foxy since this is the most stable installation.
+> **We recommend using Ubuntu 20.04 with ROS 2 Foxy since this is the most stable installation.**
