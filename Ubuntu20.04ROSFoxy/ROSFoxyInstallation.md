@@ -2,6 +2,8 @@
 
 This guide covers the installation of ROS 2 Foxy Fitzroy on Ubuntu 20.04 (Focal Fossa) environment[^1].
 
+-- *Last Tested: 08/28/2024*
+
 ## Prerequisites
 
 - **Ubuntu 20.04 (Focal Fossa)** environment
