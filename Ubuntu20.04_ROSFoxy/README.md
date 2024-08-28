@@ -10,4 +10,4 @@ Those set of instructions are for installing the necessary Middleware and Softwa
 - Internet Connection
 
 > [!Note]
-> Those sets of instructions should work on both, AMD64 (x86-64) architecture, and ARM64 (AArch64) architecture
+> **Those sets of instructions should work on both, AMD64 (x86-64) architecture, and ARM64 (AArch64) architecture**
