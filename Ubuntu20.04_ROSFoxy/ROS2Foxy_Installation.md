@@ -1,16 +1,14 @@
 # Installing ROS 2 Foxy Fitzroy
 
-This guide covers the installation of ROS 2 Foxy Fitzroy on Ubuntu 20.04 (Focal Fossa) environment.
+This guide covers the installation of ROS 2 Foxy Fitzroy on Ubuntu 20.04 (Focal Fossa) environment[^1].
 
 ## Prerequisites
 
 - **Ubuntu 20.04 (Focal Fossa)** environment
 - Enabled `Main` and `Universe` repositories in Ubuntu Repositories
-  > [!Note]
-  >Main and Universe repositories are usually enabled by default when installing Ubuntu. If they are not enabled, or not sure if they are enabled, follow the next instruction to ensure they are enabled
+  > Main and Universe repositories are usually enabled by default when installing Ubuntu. If they are not enabled, or not sure if they are enabled, follow the next instruction to ensure they are enabled
 
 - Setting Locale to `UTF-8`
-  > [!Note]
   > Most regions use UTF-8 Encoding, if not sure, follow the instructions for it to ensure that Ubuntu usses UTF-8 Encoding
 
 ### Enabling repositories in Ubuntu
@@ -179,3 +177,5 @@ This guide covers the installation of ROS 2 Foxy Fitzroy on Ubuntu 20.04 (Focal 
   sudo apt autoremove
   sudo apt upgrade
   ```
+
+[^1]: Those set of instructions are based on the official installation instruction for ROS 2 Foxy as of 08/28/2024 > https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html
