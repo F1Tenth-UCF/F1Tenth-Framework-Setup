@@ -2,8 +2,6 @@
 
 Those set of instructions are for installing the necessary Middleware and Software for an F1Tenth Vehicle (including Simulation).
 
--- *Last Tested: 08/28/2024*
-
 ## Prerequisites
 
 - A machine or Virtual Machine running Ubuntu 20.04 (Focal Fossa)
