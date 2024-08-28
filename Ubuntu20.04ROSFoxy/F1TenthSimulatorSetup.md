@@ -2,6 +2,8 @@
 
 This guide walks you through configuring your system to set up the F1Tenth Gym ROS environment.[^1].
 
+-- *Last Tested: 08/28/2024*
+
 ## Prerequisites
 
 - **Ubuntu 20.04 (Focal Fossa)** environment
