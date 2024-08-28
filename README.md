@@ -10,4 +10,5 @@ The installation procedures depend on your hardware specification and preference
 - Ubuntu 22.04 (Jammy Jellyfish) with ROS 2 Humble Hawksbill
 - Docker Container Installation which should work on any system that supports Docker Engine, including Ubuntu 24.04, Windows, and MacOS
 
-***Note: We recommend using Ubuntu 20.04 with ROS 2 Foxy since this is the most stable installation.***
+> [!TIP]
+> We recommend using Ubuntu 20.04 with ROS 2 Foxy since this is the most stable installation.
