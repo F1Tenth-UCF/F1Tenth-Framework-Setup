@@ -178,4 +178,4 @@ This guide covers the installation of ROS 2 Foxy Fitzroy on Ubuntu 20.04 (Focal 
   sudo apt upgrade
   ```
 
-[^1]: Those set of instructions are based on the official installation instruction for ROS 2 Foxy as of 08/28/2024 > https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html
+[^1]: Those set of instructions are based on the [Official Installation Instruction](https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html) for ROS 2 Foxy on Ubuntu 20.04 as of 08/28/2024
